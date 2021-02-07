@@ -1,0 +1,3 @@
+com\icnmicros\app\commons\usuarios\SpringbootServicioCommonsUsuariosApplication.class
+com\icnmicros\app\commons\usuarios\models\entity\Usuario.class
+com\icnmicros\app\commons\usuarios\models\entity\Roles.class
